@@ -1,6 +1,6 @@
 # Getting Started with Blog app backend
 
-A backend api server for blog-web-app
+A backend api server for blog-web-app written with NestJs
 
 # Tools
 
@@ -13,6 +13,17 @@ A backend api server for blog-web-app
 - Class-validators and class-transforms
 - Eslint
 - Prettier
+
+# Modules
+
+- Users
+    - Auth
+    - Roles
+- Posts
+- Comments
+    - Replies (N-th level deep)
+
+
 
 ## Available Scripts
 
